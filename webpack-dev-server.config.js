@@ -5,7 +5,7 @@ module.exports = {
     entry: [
       "webpack-dev-server/client?http://localhost:4002",
       "webpack/hot/dev-server",
-      "./test/dev-hook.jsx",
+      "./test/dev-multiple-hook.jsx",
     ],
     output: {
         path: __dirname + "/dist",

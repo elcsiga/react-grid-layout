@@ -56,3 +56,8 @@ body {
   cursor: -moz-grab;
   cursor: -webkit-grab;
 }
+.half-width-container {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
