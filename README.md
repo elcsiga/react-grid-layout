@@ -405,3 +405,4 @@ us easily isolate it.
 - [x] Min/max w/h per item
 - [ ] Resizable handles on other corners
 - [ ] Configurable w/h per breakpoint
+- [ ] Moving grid item from one layout to another  
